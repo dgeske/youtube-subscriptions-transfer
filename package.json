@@ -1,0 +1,41 @@
+{
+  "name": "youtube-subscriptions-transfer",
+  "version": "0.0.0",
+  "description": "Download YouTube subscriptions from one account, then subscribe to each of them in another account. This is necessary, because Google offers no GUI to transfer YouTube content between accounts.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgeske/youtube-subscriptions-transfer.git"
+  },
+  "keywords": [
+    "youtube",
+    "node",
+    "cli",
+    "js",
+    "yt",
+    "api",
+    "google",
+    "apps",
+    "for",
+    "work"
+  ],
+  "author": "Daniel Geske <daniel@gogeske.com> (http://gogeske.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgeske/youtube-subscriptions-transfer/issues"
+  },
+  "homepage": "https://github.com/dgeske/youtube-subscriptions-transfer#readme"
+}
