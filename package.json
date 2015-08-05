@@ -1,6 +1,6 @@
 {
   "name": "youtube-subscriptions-transfer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Download YouTube subscriptions from one account, then subscribe to each of them in another account. This is necessary, because Google offers no GUI to transfer YouTube content between accounts.",
   "main": "index.js",
   "directories": {
